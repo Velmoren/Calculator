@@ -45,13 +45,13 @@ input:focus {
    .calc_table {
       width: 900px;
       height: 1000px;
-      margin: 20px;
+      margin: 200px;
    }
 }
 @media (max-width: 375px) {
    .calc_table {
       width: 375px;
       height: 500px;
-      margin: 20px;
+      margin: 200px;
    }
 }
