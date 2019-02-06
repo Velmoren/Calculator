@@ -55,9 +55,5 @@ input:focus {
    .calc_table {
       width: 375px;
       height: 500px;
-      margin: 200px;
    }
-	#massageArea{
-		font-size: 100px;
-	}
 }
