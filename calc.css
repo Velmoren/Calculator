@@ -1,0 +1,43 @@
+* {
+	color: #ffffff;
+}
+.calc_table {
+	display: flex;
+	flex-direction: column;
+	width: 400px;
+	height: 700px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid black;
+	background-color: #595959;
+	padding: 10px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+.td {
+	display:flex;
+	justify-content:space-around;
+	height: 100%;
+}
+#null {
+	width: 360%;
+}
+input {
+	width: 100%;
+	margin: 5px; /* or whatever */
+	font-size: 50px;
+	background-color: #595959;
+	font-family: 'Open Sans Condensed', sans-serif;
+	outline: none;
+}
+input:focus {
+	outline: none;
+}
+#massageArea {
+	height: 100%;
+	text-align: right;
+	font-size: 70px;
+	background-color: #595959;
+	margin: 5px;
+}
+
