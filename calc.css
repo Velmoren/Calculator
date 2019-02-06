@@ -51,7 +51,7 @@ input:focus {
 @media (max-width: 375px) {
    .calc_table {
       width: 375px;
-      height: 650px;
+      height: 500px;
       margin: none;
    }
 }
