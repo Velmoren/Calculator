@@ -27,7 +27,8 @@
 }
 
 input {
-   width: 100%;
+   width: 90px;
+   height: 90px;
    margin: 5px;
    /* or whatever */
    font-size: 50px;
@@ -38,6 +39,9 @@ input {
 
 input:focus {
    outline: none;
+}
+input#null {
+   width: 290px;
 }
 
 #massageArea {
@@ -55,7 +59,12 @@ input:focus {
       padding: 0px;
    }
       input {
-         font-size: 150px;
+         width: 200px;
+         height: 200px;
+         font-size: 100px;
+      }
+      input#null {
+         width: 680px;
       }
       #massageArea {
          font-size: 180px;
