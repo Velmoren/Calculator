@@ -40,4 +40,11 @@ input:focus {
 	background-color: #595959;
 	margin: 5px;
 }
-
+@media (max-width: 1000px) {
+   .calc_table {
+      width: 900px;
+      height: 1500px;
+      margin: none;
+   }
+   
+}
