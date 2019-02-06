@@ -47,6 +47,9 @@ input:focus {
       height: 1000px;
       margin: 200px;
    }
+	#massageArea{
+		font-size: 100px;
+	}
 }
 @media (max-width: 375px) {
    .calc_table {
@@ -54,4 +57,7 @@ input:focus {
       height: 500px;
       margin: 200px;
    }
+	#massageArea{
+		font-size: 100px;
+	}
 }
